@@ -1,4 +1,4 @@
-# This is probably the shittiest code ever written; please don't use this; it's basically just stacking shit together howerver, weirdly this fixed a lot of graphical issue's I had with Studio and how it woun't create a stable link each installation, and a whole other magnitude of issues.
+# This is probably the shittiest code ever written; please don't use this; it's basically just stacking shit together however, weirdly this fixed a lot of graphical issue's I had with Studio and how it woun't create a stable link each installation, and a whole other magnitude of issues.
 
 <div style="display: flex; align-items: center;">
     <img src="https://github.com/fnstart/StudioFinder/blob/main/bin/logo.png?raw=true" alt="Logo" style="width: 100px; margin-right: 20px;">
